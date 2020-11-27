@@ -1,0 +1,13 @@
+{
+"companyName": "UvTT",
+"productName": "-",
+"dataUrl": "27nov_Neutral Congruent - Office worker in office.data.unityweb",
+"wasmCodeUrl": "27nov_Neutral Congruent - Office worker in office.wasm.code.unityweb",
+"wasmFrameworkUrl": "27nov_Neutral Congruent - Office worker in office.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
